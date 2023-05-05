@@ -1,0 +1,1 @@
+day one:lean how to open bluetooth in Android 12,you should open "Manifest.permission.BLUETOOTH_CONNECT" in it,or your app will be broken
